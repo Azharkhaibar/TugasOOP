@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/tmp/build",
+  "command": "clang++  -I/home/runner/latihanc/include -isystem /nix/store/ghvw9lxj8wy3qjip2jv6qsqwvqh6r86j-gdb-12.1/include -isystem /nix/store/wnjh1hzv9vqyyh46m9x2h26idib5kbx8-compiler-rt-libc-12.0.1-dev/include -isystem /nix/store/1gf2flfqnpqbr1b4p4qz2f72y42bs56r-gcc-11.3.0/include/c++/11.3.0 -isystem /nix/store/1gf2flfqnpqbr1b4p4qz2f72y42bs56r-gcc-11.3.0/include/c++/11.3.0/x86_64-unknown-linux-gnu -isystem /nix/store/1gf2flfqnpqbr1b4p4qz2f72y42bs56r-gcc-11.3.0/include/c++/11.3.0/backward -isystem /nix/store/1gf2flfqnpqbr1b4p4qz2f72y42bs56r-gcc-11.3.0/lib/gcc/x86_64-unknown-linux-gnu/11.3.0/include -isystem /nix/store/1gf2flfqnpqbr1b4p4qz2f72y42bs56r-gcc-11.3.0/include -isystem /nix/store/1gf2flfqnpqbr1b4p4qz2f72y42bs56r-gcc-11.3.0/lib/gcc/x86_64-unknown-linux-gnu/11.3.0/include-fixed -isystem /nix/store/4pqv2mwdn88h7xvsm7a5zplrd8sxzvw0-glibc-2.35-163-dev/include  -o CMakeFiles/main.dir/src/main.cpp.o -c /home/runner/latihanc/src/main.cpp",
+  "file": "/home/runner/latihanc/src/main.cpp"
+}
+]
